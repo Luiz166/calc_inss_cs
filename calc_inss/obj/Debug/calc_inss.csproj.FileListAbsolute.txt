@@ -1,0 +1,8 @@
+C:\Users\ssen\source\repos\calc_inss\calc_inss\bin\Debug\calc_inss.exe.config
+C:\Users\ssen\source\repos\calc_inss\calc_inss\bin\Debug\calc_inss.exe
+C:\Users\ssen\source\repos\calc_inss\calc_inss\bin\Debug\calc_inss.pdb
+C:\Users\ssen\source\repos\calc_inss\calc_inss\obj\Debug\calc_inss.csproj.AssemblyReference.cache
+C:\Users\ssen\source\repos\calc_inss\calc_inss\obj\Debug\calc_inss.csproj.SuggestedBindingRedirects.cache
+C:\Users\ssen\source\repos\calc_inss\calc_inss\obj\Debug\calc_inss.csproj.CoreCompileInputs.cache
+C:\Users\ssen\source\repos\calc_inss\calc_inss\obj\Debug\calc_inss.exe
+C:\Users\ssen\source\repos\calc_inss\calc_inss\obj\Debug\calc_inss.pdb

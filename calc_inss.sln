@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calc_inss", "calc_inss\calc_inss.csproj", "{A83C908F-5D00-4BEA-BEEA-2B4DA617EC4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A83C908F-5D00-4BEA-BEEA-2B4DA617EC4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83C908F-5D00-4BEA-BEEA-2B4DA617EC4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83C908F-5D00-4BEA-BEEA-2B4DA617EC4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83C908F-5D00-4BEA-BEEA-2B4DA617EC4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3C76905-41E9-4D80-B02B-C4A4A8A4DD7E}
+	EndGlobalSection
+EndGlobal
